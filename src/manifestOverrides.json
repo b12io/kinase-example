@@ -1,0 +1,10 @@
+{
+  "name": "Kinase Extended",
+  "description": "An extension made using Kinase.",
+  "version": "0.1.0",
+  "externally_connectable": {
+    "matches": [
+      "*://*.your-api-here.com/*"
+    ]
+  }
+}
