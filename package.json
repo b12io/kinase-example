@@ -1,4 +1,13 @@
 {
+  "name": "kinase-example",
+  "version": "0.1.0",
+  "description": "Example Chrome extension based on Kinase",
+  "author": "B12 <hello@b12.io> (https://b12.io/)",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/b12io/kinase-example.git"
+  },
   "dependencies": {
     "semver": "5.3.0"
   },
