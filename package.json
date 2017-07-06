@@ -12,6 +12,6 @@
     "semver": "5.3.0"
   },
   "devDependencies": {
-    "kinase": "0.1.0"
+    "kinase": "0.1.5"
   }
 }
